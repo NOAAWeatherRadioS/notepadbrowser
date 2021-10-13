@@ -1,2 +1,3 @@
-2021/10/10-10:56:56.940 4cc4 Creating DB C:\Users\alexf\source\repos\Notepad Browser\Notepad Browser\bin\x64\Release\Notepad Browser.exe.WebView2\EBWebView\Default\Site Characteristics Database since it was missing.
-2021/10/10-10:56:57.410 4cc4 Reusing MANIFEST C:\Users\alexf\source\repos\Notepad Browser\Notepad Browser\bin\x64\Release\Notepad Browser.exe.WebView2\EBWebView\Default\Site Characteristics Database/MANIFEST-000001
+2021/10/10-10:58:04.647 11dc Reusing MANIFEST C:\Users\alexf\source\repos\Notepad Browser\Notepad Browser\bin\x64\Release\Notepad Browser.exe.WebView2\EBWebView\Default\Site Characteristics Database/MANIFEST-000001
+2021/10/10-10:58:04.647 11dc Recovering log #3
+2021/10/10-10:58:04.648 11dc Reusing old log C:\Users\alexf\source\repos\Notepad Browser\Notepad Browser\bin\x64\Release\Notepad Browser.exe.WebView2\EBWebView\Default\Site Characteristics Database/000003.log 
